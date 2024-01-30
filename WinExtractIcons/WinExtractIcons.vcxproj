@@ -134,7 +134,6 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="WinExtractIcons.cpp" />
-    <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="WinExtractIcons.rc" />
